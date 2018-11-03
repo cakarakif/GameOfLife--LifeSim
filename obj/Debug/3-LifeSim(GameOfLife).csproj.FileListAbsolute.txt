@@ -1,0 +1,15 @@
+C:\Users\AkifCkr\Desktop\Çalışmalar\Visual Studio 2015 Denemeler\1-Projeler\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\bin\Debug\3-LifeSim(GameOfLife).exe.config
+C:\Users\AkifCkr\Desktop\Çalışmalar\Visual Studio 2015 Denemeler\1-Projeler\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\bin\Debug\3-LifeSim(GameOfLife).exe
+C:\Users\AkifCkr\Desktop\Çalışmalar\Visual Studio 2015 Denemeler\1-Projeler\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\bin\Debug\3-LifeSim(GameOfLife).pdb
+C:\Users\AkifCkr\Desktop\Çalışmalar\Visual Studio 2015 Denemeler\1-Projeler\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\obj\Debug\3-LifeSim(GameOfLife).csprojResolveAssemblyReference.cache
+C:\Users\AkifCkr\Desktop\Çalışmalar\Visual Studio 2015 Denemeler\1-Projeler\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\obj\Debug\3-LifeSim(GameOfLife).exe
+C:\Users\AkifCkr\Desktop\Çalışmalar\Visual Studio 2015 Denemeler\1-Projeler\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\obj\Debug\3-LifeSim(GameOfLife).pdb
+C:\Users\akifc\Desktop\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\bin\Debug\3-LifeSim(GameOfLife).exe.config
+C:\Users\akifc\Desktop\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\bin\Debug\3-LifeSim(GameOfLife).exe
+C:\Users\akifc\Desktop\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\bin\Debug\3-LifeSim(GameOfLife).pdb
+C:\Users\akifc\Desktop\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\obj\Debug\3-LifeSim(GameOfLife).csprojResolveAssemblyReference.cache
+C:\Users\akifc\Desktop\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\obj\Debug\3-LifeSim(GameOfLife).exe
+C:\Users\akifc\Desktop\3-LifeSim(GameOfLife)\3-LifeSim(GameOfLife)\obj\Debug\3-LifeSim(GameOfLife).pdb
+C:\Users\akifc\Desktop\WorkSpace\GitHub\GameOfLife--LifeSim\bin\Debug\3-LifeSim(GameOfLife).exe.config
+C:\Users\akifc\Desktop\WorkSpace\GitHub\GameOfLife--LifeSim\obj\Debug\3-LifeSim(GameOfLife).exe
+C:\Users\akifc\Desktop\WorkSpace\GitHub\GameOfLife--LifeSim\obj\Debug\3-LifeSim(GameOfLife).pdb
